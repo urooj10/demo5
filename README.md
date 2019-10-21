@@ -20,7 +20,7 @@ js
 1. alia
 2. urooj
 
-hi this is the lionk to [google](https://github.com/urooj10/demo5/edit/dev-urooj/README.md)
+hi this is the lionk to [google](www.google.com)
 - [ ] mobile.
 - [ ] laptop.
 - [ ] car.
