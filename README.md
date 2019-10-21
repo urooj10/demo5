@@ -20,7 +20,7 @@ js
 1. alia
 2. urooj
 
-hi this is the lionk to [google](www.google.com)
+hi this is the lionk to [google](https://www.google.com)
 - [ ] mobile.
 - [ ] laptop.
 - [ ] car.
